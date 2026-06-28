@@ -1,6 +1,6 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Foveal-Avascular-Zone (2025/06/28)</h2>
 
-This is the first experiment of Image Segmentation for Foveal-Avascular-Zone (FAZ)
+This is the first experiment of Image Segmentation for <b>Foveal-Avascular-Zone (FAZ) </b>
  based on 
 our <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">TensorFlow FlexUNet Model</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>) and a 512x512 pixels PNG
